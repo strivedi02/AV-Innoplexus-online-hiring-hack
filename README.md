@@ -38,7 +38,11 @@ Your initial responses will be checked and scored on the Public data.
 The final rankings would be based on your private score which will be published once the competition is over.
 
 #### Public Leaderboard:
-![](av_public_leaderboard.png)
+<p align="center">
+ <img src="av_public_leaderboard.png">
+</p>
 
 #### Private Leaderboard:
-![](av_private_leaderboard.png)
+<p align="center">
+ <img src="av_private_leaderboard.png">
+</p>
