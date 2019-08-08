@@ -37,8 +37,8 @@ The texts in the test data are further randomly divided into Public (40%) and Pr
 Your initial responses will be checked and scored on the Public data.
 The final rankings would be based on your private score which will be published once the competition is over.
 
-__Public Leaderboard:__
+#### Public Leaderboard:
 ![](av_public_leaderboard.png)
 
-__Private Leaderboard:__
+#### Private Leaderboard:
 ![](av_private_leaderboard.png)
